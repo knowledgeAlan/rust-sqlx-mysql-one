@@ -7,5 +7,5 @@ struct AppState {
 
 
 fn main() {
-    println!("Hello, world!");
+     
 }
