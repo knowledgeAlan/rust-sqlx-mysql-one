@@ -1,7 +1,7 @@
 
 #[derive(Clone)]
 struct AppState {
-    //
+
     pool:MySqlPool,
 }
 
